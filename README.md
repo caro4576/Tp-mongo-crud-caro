@@ -1,13 +1,12 @@
-Sí, te lo dejo completo y prolijo en **un solo bloque**. Copiá todo esto y reemplazá el contenido de `README.md`:
 
-```md
+```
 # CRUD de Frutas con Node.js, Express y MongoDB Atlas
 
 Este proyecto es una API REST desarrollada con Node.js, Express y MongoDB Atlas. Permite realizar un CRUD completo sobre una colección de frutas almacenada en MongoDB.
 
 La base de datos utilizada es:
 
-```text
+```
 Base de datos: clase_18
 Colección: frutas
 ```
