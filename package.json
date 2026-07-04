@@ -1,7 +1,7 @@
 {
-  "name": "crud-json",
+  "name": "crud-frutas-mongo",
   "version": "0.0.1",
-  "description": "CRUD de tareas",
+  "description": "CRUD de frutas con Node.js, Express y MongoDB Atlas",
   "main": "index.js",
   "type": "module",
   "scripts": {
